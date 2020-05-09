@@ -7,3 +7,11 @@ git init
 
 To see the saved commits made 
 cmd: "git log"
+
+git checkout Mygit.txt --> Mygit.txt is file in the folder
+
+git remote add origin https://github.com/MeenaJayaprakasam/Learning.git
+
+git push -u origin master 
+
+git clone https://github.com/MeenaJayaprakasam/Learning.git
