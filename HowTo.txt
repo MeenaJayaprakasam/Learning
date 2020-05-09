@@ -1,0 +1,9 @@
+Creation of local Repository:
+git init
+
+1) Working Directory --> Ex: F://GitLearning
+2) Staging --> git Status [Red : No Staging --> If Red, use cmd: "git add ."  / Green : Staging]
+3) Local Repository --> git Commit -m "Fixed Audio Upload" --> It will save in local repository
+
+To see the saved commits made 
+cmd: "git log"
